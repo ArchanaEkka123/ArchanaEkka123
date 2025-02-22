@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" alt="Profile Banner" height="370px" width="98%" />
+  <img src="[.jpeg?fit=1200%2C630](https://www.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_5698344.htm#fromView=search&page=1&position=44&uuid=0a5c16a8-1eab-42db-906c-a6b89d330e6c&query=frontend)" alt="Profile Banner" height="370px" width="98%" />
 </p>
 <!-- Introduction -->
 <h1 align="center">Greetings! I'm Archana 👋</h1>
