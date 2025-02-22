@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Gloitel Technology
 - 🌱 I’m currently learning Nodejs
 - ⚡ Fun fact: I'm passionate about coding! 🖊️
-- 💬 Ask me about DSA 
+- 💬 Ask me about 
 - 📫 How to reach me: archanaekka97555@gmail.com
