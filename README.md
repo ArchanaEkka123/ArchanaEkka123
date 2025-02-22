@@ -15,7 +15,7 @@
 </p>
 
 <!-- Profile Image -->
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901768.jpg?t=st=1740222682~exp=1740226282~hmac=566ce3a9afeaa316cc12e2e2923b51aac7496203f49cbf931b96b8d3b5b79c88&w=996">
 
 <!--
 **VinayVastrakar/VinayVastrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
