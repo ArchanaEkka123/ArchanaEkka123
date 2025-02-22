@@ -2,16 +2,16 @@
   <img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630" alt="Profile Banner" height="370px" width="98%" />
 </p>
 <!-- Introduction -->
-<h1 align="center">Greetings! I'm Vinay 👋</h1>
+<h1 align="center">Greetings! I'm Archana 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Spring+Boot+Backend+Developer;Java+Developer;&color=cyan&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Front+End+Developer;&color=cyan&center=true" />
 </div>
 
-<h2 align="center">🚀 Full Stack Web Developer with Expertise in Java Backend Development</h2>
+<h2 align="center">🚀 Front End Developer </h2>
 
 <p align="center">
-  I am a dedicated Java developer who thrives on exploring cutting-edge technologies and utilizing them to tackle real-world challenges.
+  I am a dedicated Front End developer who thrives on exploring cutting-edge technologies and utilizing them to tackle real-world challenges.
 </p>
 
 <!-- Profile Image -->
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Gloitel Technology
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Nodejs
 - ⚡ Fun fact: I'm passionate about coding! 🖊️
 - 💬 Ask me about DSA 
-- 📫 How to reach me: VinayVastrakar13@gmail.com
+- 📫 How to reach me: archanaekka97555@gmail.com
