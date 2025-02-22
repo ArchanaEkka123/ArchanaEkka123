@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[.jpeg?fit=1200%2C630](https://www.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_5698344.htm#fromView=search&page=1&position=44&uuid=0a5c16a8-1eab-42db-906c-a6b89d330e6c&query=frontend)" alt="Profile Banner" height="370px" width="98%" />
+  <img src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1740221902~exp=1740225502~hmac=ae9ffe9463ef189def66b2709b2bbbc8f634d7ec63f062920716e2d03cb9d8b9&w=1060" alt="Profile Banner" height="370px" width="98%" />
 </p>
 <!-- Introduction -->
 <h1 align="center">Greetings! I'm Archana 👋</h1>
